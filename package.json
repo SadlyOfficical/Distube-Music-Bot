@@ -3,6 +3,9 @@
   "version": "2.1.0",
   "description": "",
   "main": "index.js",
+  "engines": {
+    "node": "17.1.0"
+  }
   "scripts": {
     "start": "node index.js"
   },
@@ -22,6 +25,6 @@
     "reconlx": "^2.5.1"
   },
   "devDependencies": {
-    "node": "^17.1.0"
+    "nodemon": "^2.0.15"
   }
 }
